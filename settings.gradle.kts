@@ -3,6 +3,7 @@ includeBuild("build-support")
 
 include(":openai-core")
 include(":openai-client")
+include(":openai-client-ktor")
 
 include(":sample:jvm")
 include(":sample:js")
